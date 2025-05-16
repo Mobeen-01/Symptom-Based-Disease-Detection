@@ -35,9 +35,9 @@
 
 > Click below to watch the demonstration of the application in action:
 
-[![MediCURE Demo](https://img.youtube.com/vi/79ac30cd-e462-4601-85eb-774a14658ab7/0.jpg)](https://user-images.githubusercontent.com/107244393/235594013-79ac30cd-e462-4601-85eb-774a14658ab7.mp4)
+[![MediCURE Demo](https://img.youtube.com/vi/79ac30cd-e462-4601-85eb-774a14658ab7/0.jpg)]([https://user-images.githubusercontent.com/107244393/235594013-79ac30cd-e462-4601-85eb-774a14658ab7.mp4](https://github.com/Mobeen-01/Symptom-Based-Disease-Detection/blob/main/Demo/Demo.mp4))
 
-*Note: GitHub does not support direct video playback in README files. Clicking the image above will open the demo video.*
+
 
 ---
 
