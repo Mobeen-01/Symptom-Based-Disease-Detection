@@ -97,18 +97,18 @@ python app.py
 
 ### 📼 Watch the Guide
 
-After unzipping the project folder, **please watch `Guide.mp4`** in the root directory for detailed instructions on:
+A complete video walkthrough is available to help you get started quickly.
+
+📥 [**Click here to download the Guide.mp4**](https://github.com/Mobeen-01/Symptom-Based-Disease-Detection/releases/download/v1.0/Guide.mp4)
+
+The guide covers:
 
 - Understanding the project structure  
-- Installing the required libraries  
+- Installing required dependencies  
 - Running the application smoothly
 
-The video file is located at the root of the repository:
+👉 Make sure to watch the video before running the project for the best experience.
 
-```bash
-Guide.mp4
-
-```
 ## Demo Video
 
 > Click below to watch the demonstration of the application in action:
