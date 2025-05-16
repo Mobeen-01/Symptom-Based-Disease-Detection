@@ -120,7 +120,7 @@ Guide.mp4
 ```
 ## 📹 Demo
 
-A walkthrough video is included in the repo: `GuideVideo.mp4`
+A walkthrough video is included in the repo: `Demo/Demo.mp4`
 
 
 
