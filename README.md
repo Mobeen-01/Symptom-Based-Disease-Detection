@@ -63,7 +63,7 @@ cd MediCURE-Disease-Prediction
 
 ### 2.  Set Up Environment and Install Dependencies
 
-Open your terminal and run the following commands:Open your terminal and run the following commands:
+Open your terminal and run the following commands:
 
 ```bash
 py -3.12 -m venv venv
