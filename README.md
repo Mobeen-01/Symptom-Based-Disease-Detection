@@ -20,14 +20,14 @@
 
 ## Features
 
-- ✅ **Symptom-Based Disease Prediction:** Uses machine learning models including Logistic Regression, Support Vector Machine (SVM), Multilayer Perceptron (MLP), Artificial Neural Network (ANN), Naive Bayes, Decision Tree, Random Forest, and XGBoost.
-- ✅ **Confidence Scoring:** Provides probabilistic confidence scores with each prediction.
-- ✅ **Home Remedies Recommendation:** Suggests natural home remedies tailored to the predicted diseases.
-- ✅ **Comprehensive Dataset:** Trained on a Kaggle dataset containing 8,835 unique rows, 490 distinct symptoms, and 261 distinct diseases.
-- ✅ **Comparative Model Analysis:** Evaluates various ML algorithms to identify the best-performing model.
-- ✅ **User-Friendly Web Interface:** Easy-to-use Flask web application.
-- ✅ **Data Augmentation:** Enhanced dataset via symptom combination expansion.
-- ✅ **Informational Use:** Designed for awareness, **not** as medical advice or diagnosis.
+✅ **Symptom-Based Disease Prediction:** Uses machine learning models including Logistic Regression, Support Vector Machine (SVM), Multilayer Perceptron (MLP), Artificial Neural Network (ANN), Naive Bayes, Decision Tree, Random Forest, and XGBoost.
+✅ **Confidence Scoring:** Provides probabilistic confidence scores with each prediction.
+✅ **Home Remedies Recommendation:** Suggests natural home remedies tailored to the predicted diseases.
+✅ **Comprehensive Dataset:** Trained on a Kaggle dataset containing 8,835 unique rows, 490 distinct symptoms, and 261 distinct diseases.
+✅ **Comparative Model Analysis:** Evaluates various ML algorithms to identify the best-performing model.
+✅ **User-Friendly Web Interface:** Easy-to-use Flask web application.
+✅ **Data Augmentation:** Enhanced dataset via symptom combination expansion.
+✅ **Informational Use:** Designed for awareness, **not** as medical advice or diagnosis.
 
 ---
 
