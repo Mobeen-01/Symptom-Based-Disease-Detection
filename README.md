@@ -31,14 +31,6 @@
 
 ---
 
-## Demo Video
-
-> Click below to watch the demonstration of the application in action:
-
-[![MediCURE Demo]](https://github.com/Mobeen-01/Symptom-Based-Disease-Detection/blob/main/Demo/Demo.mp4)
-
-
----
 
 ## Dataset
 
@@ -117,9 +109,15 @@ The video file is located at the root of the repository:
 Guide.mp4
 
 ```
-## 📹 Demo
+## Demo Video
 
-A walkthrough video is included in the repo: `Demo/Demo.mp4`
+> Click below to watch the demonstration of the application in action:
+
+[[MediCURE Demo]](https://github.com/Mobeen-01/Symptom-Based-Disease-Detection/blob/main/Demo/Demo.mp4)
+
+
+---
+
 
 
 
